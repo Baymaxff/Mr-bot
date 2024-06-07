@@ -34,7 +34,7 @@ global.link = 'https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w'
 global.prefa = [',']
 
 global.autoRecording = false 
-global.autoTyping = true 
+global.autoTyping = false 
 global.autorecordtype = false
 global.autoread = false 
 global.autobio = false 
